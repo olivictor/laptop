@@ -51,10 +51,10 @@ What it sets up
 * [Node.js] and [NPM], for running apps and installing JavaScript packages
 * [Postgres] for storing relational data
 * [Qt] for headless JavaScript testing via Capybara Webkit
-* [Rbenv] for managing versions of Ruby
+* [Chruby] for managing versions of Ruby
 * [RCM] for managing company and personal dotfiles
 * [Redis] for storing key-value data
-* [Ruby Build] for installing Rubies
+* [Ruby Install] for installing Rubies
 * [Ruby] stable for writing general-purpose code
 * [The Silver Searcher] for finding things in files
 * [Tmux] for saving project state and switching between projects
@@ -71,10 +71,10 @@ What it sets up
 [NPM]: https://www.npmjs.org/
 [Postgres]: http://www.postgresql.org/
 [Qt]: http://qt-project.org/
-[Rbenv]: https://github.com/sstephenson/rbenv
+[Chruby]: https://github.com/postmodern/chruby
 [RCM]: https://github.com/thoughtbot/rcm
 [Redis]: http://redis.io/
-[Ruby Build]: https://github.com/sstephenson/ruby-build
+[Ruby Install]: https://github.com/postmodern/ruby-install
 [Ruby]: https://www.ruby-lang.org/en/
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
