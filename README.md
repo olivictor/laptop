@@ -24,7 +24,7 @@ Install
 Download, review, then execute the script:
 
 ```sh
-curl --remote-name https://raw.githubusercontent.com/olivictor/laptop/master/mac
+curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
 less mac
 sh mac 2>&1 | tee ~/laptop.log
 ```
@@ -51,10 +51,10 @@ What it sets up
 * [Node.js] and [NPM], for running apps and installing JavaScript packages
 * [Postgres] for storing relational data
 * [Qt] for headless JavaScript testing via Capybara Webkit
-* [Chruby] for managing versions of Ruby
+* [Rbenv] for managing versions of Ruby
 * [RCM] for managing company and personal dotfiles
 * [Redis] for storing key-value data
-* [Ruby Install] for installing Rubies
+* [Ruby Build] for installing Rubies
 * [Ruby] stable for writing general-purpose code
 * [The Silver Searcher] for finding things in files
 * [Tmux] for saving project state and switching between projects
@@ -71,10 +71,10 @@ What it sets up
 [NPM]: https://www.npmjs.org/
 [Postgres]: http://www.postgresql.org/
 [Qt]: http://qt-project.org/
-[Chruby]: https://github.com/postmodern/chruby
+[Rbenv]: https://github.com/sstephenson/rbenv
 [RCM]: https://github.com/thoughtbot/rcm
 [Redis]: http://redis.io/
-[Ruby Install]: https://github.com/postmodern/ruby-install
+[Ruby Build]: https://github.com/sstephenson/ruby-build
 [Ruby]: https://www.ruby-lang.org/en/
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
