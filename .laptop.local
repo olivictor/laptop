@@ -1,13 +1,11 @@
 #!/bin/sh
 
 # Move this file to ~
-
-brew install chruby
-
 brew cask install google-chrome
 brew cask install firefox
 brew cask install caffeine
 
+brew cask install licecap
 brew cask install sublime-text
 brew cask install atom
 brew cask install iterm2
