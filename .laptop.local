@@ -9,5 +9,6 @@ brew cask install firefox
 brew cask install caffeine
 
 brew cask install sublime-text
+brew cask install atom
 brew cask install iterm2
 brew cask install evernote
