@@ -7,7 +7,9 @@ brew cask install caffeine
 
 brew cask install slack
 brew cask install licecap
-brew cask install sublime-text
-brew cask install atom
 brew cask install iterm2
 brew cask install evernote
+
+brew tap caskroom/versions
+brew cask install sublime-text3
+brew cask install atom
